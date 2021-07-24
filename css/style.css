@@ -1,0 +1,446 @@
+.A{
+    color: red;
+    font-size: 40px;
+    font-style: normal;
+    text-transform: capitalize;
+    background-color: blue;
+}
+.a{
+    background-color: coral;
+
+}
+.b{
+    background-color: cyan;
+}
+.c{
+    background-color: darkgoldenrod;
+}
+.d{
+    background-color: deeppink;
+
+}
+.B{
+    text-transform: none;
+    background-color: gold;
+}
+.C{
+    text-transform: capitalize;
+    font-size: larger;
+    font-style: italic;
+    background-color: greenyellow;
+}
+.D{
+    background-color: indianred;
+}
+.e{
+    background-color: lawngreen;
+}
+.f{
+    background-color: maroon;
+}
+.g{
+    background-color: mediumseagreen;
+}
+.h{
+    background-color: palegoldenrod;
+}
+.E{
+    background-color: peru;
+}
+.F{
+    background-color: seagreen;
+}
+.G{
+    background-color:red;
+}
+.H{
+    background-color: tomato;
+}
+.i{
+    background-color: violet;
+    font-style: unset;
+}
+.j{
+    background-color: lightskyblue;
+    text-transform: capitalize;
+    font-style: italic;
+    font-size: 60px;
+}
+.k{
+    background-color: magenta;
+    font-size: 50px;
+}
+.l{
+    background-color: darkkhaki;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.I{
+    background-color: teal;
+    font-size: 50px;
+}
+.J{
+    background-color: yellow;
+    font-size: 20px;
+}
+.K{
+    background-color: thistle;
+    font-size: 30px;
+}
+.L{
+    background: orangered;
+    
+}
+.m{
+    background-color: tan;
+}
+.n{
+    background-color: yellowgreen;
+    font-size: 30px;
+}
+.o{
+    background-color: sandybrown;
+    text-transform: uppercase;
+}
+.p{
+    background-color: sienna;
+    font-style: italic;
+}
+.M{
+    background-color: steelblue;
+    font-size: 40PX;
+}
+.N{
+    background-color: violet;
+}
+.O{
+    background-color: turquoise;
+    text-transform: lowercase;
+    font-size: 30PX;
+}
+.P{
+    background-color: pink;
+    font-size: 30px;
+    font-style: oblique;
+}
+.q{
+    background-color: red;
+    font-size: 40px;
+}
+.r{
+    background-color: salmon;
+}
+.s{
+    background-color: turquoise;
+}
+.t{
+    background-color: peru;
+    font-size: 40px;
+}
+.Q{
+    background-color: pink;
+}
+.R{
+    background-color: purple;
+}
+.S{
+    background-color: teal;
+}
+.T{
+    background-color: yellow;
+    font-style: italic;
+    font-variant: small-caps;
+    font-size: 40 PX;
+}
+.AB{
+    background-color: yellowgreen;
+    font-size: 50PX;
+}
+.BC{
+    background-color: violet;
+    font-style: italic;
+    font-size: 30px;
+}
+.CA{
+    background-color: tomato;
+    text-transform: capitalize;
+}
+.AC{
+    background-color: turquoise;
+}
+.ab{
+    background-color: violet;
+}
+.bc{
+    background-color: yellow;
+    font-size: 40px;
+}
+.ca{
+    background-color: teal;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.ac{
+    background-color: gold;
+}
+.W{
+    background-color: green;
+    font-size: 30PX;
+}
+.X{
+    background-color: indianred;
+    text-decoration-color: red;
+}
+.Y{
+    background-color: lightpink;
+    text-transform: uppercase;
+}
+.Z{
+    background-color: mediumturquoise;
+    font-size: 30PX;
+}
+.x{
+    background-color: red;
+    font-style: italic;
+}
+.y{
+    background-color: royalblue;
+}
+.z{
+    background-color: saddlebrown;
+    font-size: 20px;
+}
+.w{
+    background-color: skyblue;
+    font-size: 40px;
+}
+.abc{
+    background-color: slateblue;
+    font-size: 40px;
+}
+.efg{
+    background-color: tan;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.ijk{
+    background-color: violet;
+    text-transform: capitalize;
+}
+.lmn{
+    background-color: yellowgreen;
+}
+.long{
+    background-color: blue;
+}
+.small{
+    background-color: red;
+}
+.short{
+    background-color: tomato;
+}
+.f1{
+    background-color: blueviolet;
+}
+.f2{
+    background: brown;
+}
+.f3{
+    background-color: cyan;
+}
+.f4{
+    background-color: gold;
+}
+.f5{
+    font-style: oblique;
+    text-transform: uppercase;
+    background-color: green;
+}
+.g1{
+    background-color: greenyellow;
+}
+.g2{
+    background-color: hotpink;
+}
+.g3{
+    background-color: lightcoral;
+}
+.g4{
+    background-color: mediumaquamarine;
+}
+.b1{
+    background-color: mediumseagreen;
+}
+.b2{
+    background-color: navy;
+}
+.b3{
+    background-color: peru;
+}
+.b4{
+    background-color: saddlebrown;
+}
+.b5{
+    background-color: silver;
+}
+.b6{
+    background-color: skyblue;
+}
+.b7{
+    background-color: tan;
+}
+.b8{
+    background-color: violet;
+}
+.b9{
+    background-color: yellow;
+}
+.c1{
+    background-color: turquoise;
+}
+.c2{
+    background-color: thistle;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.c3{
+    background-color: tomato;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+.c4{
+    background-color: violet;
+}
+.d1{
+    background-color: tomato;
+    font-size: 40px;
+}
+.d2{
+    background-color: violet;
+    font-size: 30px;
+}
+.d3{
+    background-color: yellow;
+    text-transform: uppercase;
+}
+.d4{
+    background-color: skyblue;
+}
+.e1{
+    background-color: khaki;
+    font-size: 50px;
+}
+.e2{
+    background-color: lightcoral;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.e3{
+    background-color: lightskyblue;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.e4{
+    background-color: limegreen;
+}
+.k1{
+    background-color: magenta;
+}
+.k2{
+    background-color: mediumvioletred;
+}
+.k3{
+    background-color: olive;
+}
+.k4{
+    background-color: palegreen;
+    font-size: 25px;
+}
+.l1{
+    background-color: palevioletred;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.l2{
+    background-color: peachpuff;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.l3{
+    background-color: plum;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.l4{
+    background-color: red;
+}
+.x1{
+    background-color: rosybrown;
+    font-size: 30px;
+}
+.x2{
+    background-color: skyblue;
+    text-transform: uppercase;
+}
+.x3{
+    background-color: violet;
+    font-size: 20px;
+    font-style: italic;
+}
+.x4{
+    background-color: yellow;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.z1{
+    background-color: thistle;
+    font-size: 30px;
+    font-style: normal;
+}
+.z2{
+    background-attachment: red;
+    font-size: 40px;
+}
+.z3{
+    background-color: bisque;
+    font-size: 20px;
+    font-style: italic;
+}
+.z4{
+    background-color: yellow;
+    font-size: 15px;
+}
+.x8{
+    background-color: blue;
+    font-size: 10px;
+
+}
+.x9{
+    background-color: yellowgreen;
+    font-size: 15px;
+}
+.x10{
+    background-color: brown;
+    font-size: 25px;
+}
+.y1{
+    background-color: burlywood;
+    font-size: 50px;
+}
+.y2{
+    background-color: chocolate;
+    font-size: 30px;
+}
+.y3{
+    background-color: crimson;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.y4{
+    background-color: cyan;
+    font-size: 15px;
+}
+.y5{
+    background-color: dodgerblue;
+    font-size: 20px;
+}
